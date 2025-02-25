@@ -1,5 +1,5 @@
 {
-	"cachePreload": "false",
+	"cachePreload": "true",
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx768m",
