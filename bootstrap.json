@@ -96,7 +96,7 @@
 		"rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
         "h2-1.4.200.jar": "3ad9ac4b6aae9cd9d3ac1c447465e1ed06019b851b893dd6a8d76ddb6d85bca6"
     },
-	"cachePreload": "true",
+	"cachePreload": "false",
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx768m",
